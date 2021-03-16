@@ -242,6 +242,7 @@ Thumbs.db #thumbnail cache on Windows
 # profiling data
 
 
+
 ### vscode ###
 .vscode/*
 !.vscode/settings.json
